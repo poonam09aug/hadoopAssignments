@@ -26,3 +26,4 @@ hadoop fs -mkdir /user/sharma1/project1Destination
 hadoop fs -put project1Source/file*.txt /user/sharma1/project1Destination
 
 echo "file  moved from local to hadoop fs"
+# end
